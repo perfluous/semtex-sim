@@ -1,0 +1,26 @@
+DEVICE_CONNECTION_STRINGS ={
+    "ElectricChargeSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "PressureSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "TempSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "VoltageSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "H2OInFlowSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "ResistanceSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "CurrentDensitySensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"},
+    "H2OutFlowSensorDevice": {
+        "con_str": "<...>",
+        "key": "<...>"}
+}
